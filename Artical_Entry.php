@@ -6,7 +6,7 @@ if(isset($_GET['opr']))
 
 if(isset($_GET['rs_id']))
 	$id=$_GET['rs_id'];
-//
+//set is the//
 if(isset($_POST['btn_sub'])){
 	$lid=$_POST['sudenttxt'];
 	$title=$_POST['locationtxt'];
